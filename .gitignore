@@ -1,0 +1,11 @@
+# simulation outputs (recreated every run)
+__pycache__/
+sim_build/
+results.xml
+*.vcd
+*.fst
+# Quartus outputs (recreated every compile)
+fpga/db/
+fpga/incremental_db/
+fpga/output_files/
+*.qws
